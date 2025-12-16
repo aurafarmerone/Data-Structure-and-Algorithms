@@ -1,5 +1,10 @@
 # 📘 Data Structures & Algorithms (DSA) – Java
 
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Learning](https://img.shields.io/badge/Purpose-DSA%20Practice-blue)
+
+
 Welcome to my **Data Structures and Algorithms** repository 👋  
 This repository contains my **DSA notes and Java implementations**, organized topic‑wise as I progress from **basics to advanced concepts**. It is mainly created for **learning, revision, and interview preparation**.
 
@@ -15,6 +20,24 @@ This repository contains my **DSA notes and Java implementations**, organized to
 ---
 
 ## 🧠 Topics Covered
+
+### 🗺️ DSA Learning Roadmap
+- 🟢 Java Basics
+- 🟢 Patterns (Basic & Advanced)
+- 🟢 Arrays & 2D Arrays
+- 🟢 Strings & StringBuilder
+- 🟢 Recursion
+- 🟢 Divide & Conquer
+- 🟡 Searching & Sorting (Advanced)
+- 🔵 Linked List
+- 🔵 Stack & Queue
+- 🔵 Trees & Binary Search Trees
+- 🔵 Graphs
+- 🔵 Dynamic Programming
+
+---
+
+## 🧠 Topics Covered (Implemented So Far)
 
 - ✅ Java Basics
 - ✅ Patterns (Basic & Advanced)
@@ -79,14 +102,26 @@ This is a **personal learning repository**, but suggestions, optimizations, and 
 
 ---
 
-## ⭐ Support
+## 📝 Repository Description (GitHub Header)
 
-If you find this repository helpful, consider giving it a ⭐ — it motivates me to keep improving!
-### Author: Ritik Tyagi
+> A structured collection of my Java-based Data Structures and Algorithms notes and implementations for learning, practice, and interview preparation.
 
 ---
 
+## ⭐ Support
 
+If you find this repository helpful, consider giving it a ⭐ — it motivates me to keep improving!
+
+---
+
+---
+
+## 👤 Author
+
+**Ritik Tyagi**  
+Passionate Engineer | Learning DSA & AI/ML 
+
+---
 
 ### 🙌 Happy Coding & Consistent Learning 🚀
 
