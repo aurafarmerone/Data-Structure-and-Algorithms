@@ -8,7 +8,7 @@
 Welcome to my **Data Structures and Algorithms** repository 👋  
 This repository contains my **DSA notes and Java implementations**, organized topic‑wise as I progress from **basics to advanced concepts**. It is mainly created for **learning, revision, and interview preparation**.
 
----
+
 
 ## 🎯 Purpose of This Repository
 
@@ -17,7 +17,7 @@ This repository contains my **DSA notes and Java implementations**, organized to
 - Maintain clean, readable, and structured code
 - Prepare effectively for **coding interviews & assessments**
 
----
+
 
 ## 🧠 Topics Covered
 
@@ -35,7 +35,7 @@ This repository contains my **DSA notes and Java implementations**, organized to
 - 🔵 Graphs
 - 🔵 Dynamic Programming
 
----
+
 
 ## 🧠 Topics Covered (Implemented So Far)
 
@@ -49,7 +49,7 @@ This repository contains my **DSA notes and Java implementations**, organized to
 - 🔜 Linked List, Stack, Queue
 - 🔜 Trees, Graphs, Dynamic Programming
 
----
+
 
 ## 🗂️ Repository Structure
 
@@ -73,13 +73,27 @@ Data-Structure-and-Algorithms/
 └── .gitignore
 ```
 
----
+
 
 ## 🛠️ Language Used
 
 - ☕ **Java**
 
----
+
+
+## ▶️ How to Run Java Files
+
+1. Open terminal inside the folder
+2. Compile the Java file:
+   ```bash
+   javac FileName.java
+   ```
+3. Run the program:
+   ```bash
+   java FileName
+   ```
+
+
 
 ## 🚀 How to Use This Repository
 
@@ -88,40 +102,42 @@ Data-Structure-and-Algorithms/
 - Read code carefully and try modifying it
 - Use this repo for **quick revision before interviews**
 
----
+
 
 ## 📈 Learning Status
 
 This repository will be **updated regularly** as I continue learning and solving more DSA problems.
 
----
+
 
 ## 🤝 Contributions
 
 This is a **personal learning repository**, but suggestions, optimizations, and improvements are welcome.
 
----
+
 
 ## 📝 Repository Description (GitHub Header)
 
 > A structured collection of my Java-based Data Structures and Algorithms notes and implementations for learning, practice, and interview preparation.
 
----
+
 
 ## ⭐ Support
 
 If you find this repository helpful, consider giving it a ⭐ — it motivates me to keep improving!
 
----
 
----
+
+
 
 ## 👤 Author
 
 **Ritik Tyagi**  
-Passionate Engineer | Learning DSA & AI/ML 
+Aspiring Software Engineer | DSA & Java Enthusiast  
+🔗 GitHub: https://github.com/aurafarmerone  
+🔗 LinkedIn: https://www.linkedin.com/in/aurafarmerone
 
----
+-
 
 ### 🙌 Happy Coding & Consistent Learning 🚀
 
