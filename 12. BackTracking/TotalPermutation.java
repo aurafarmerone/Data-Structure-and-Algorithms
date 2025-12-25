@@ -1,6 +1,6 @@
 class TotalPermutation{
 
-    // non repeating character
+    // non repeating
     public static void main(String[] args) {
         String str = "abc" ;
         perm(str, "");
